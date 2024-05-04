@@ -1,21 +1,8 @@
 body {
   background-color: lightsteelblue;
   border: double;
-}
-
-h1 {
   padding-left: 9px;
   padding-right: 9px;
-}
-h2 {
-  padding-left: 9px;
-  padding-right: 9px;
-}
-h3 {
-  padding-left: 9px;
-  padding-right: 9px;
-}
-p {
-  padding-left: 9px;
-  padding-right: 9px;
+  padding-bottom: 4px;
+  padding-top: 2px;
 }
