@@ -1,16 +1,21 @@
 body {
   background-color: lightsteelblue;
+  border: double;
 }
 
 h1 {
   padding-left: 7px;
+  padding-right: 7px;
 }
 h2 {
   padding-left: 7px;
+  padding-right: 7px;
 }
 h3 {
   padding-left: 7px;
+  padding-right: 7px;
 }
 p {
   padding-left: 7px;
+  padding-right: 7px;
 }
