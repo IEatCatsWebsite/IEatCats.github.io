@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<title>666 DO NOT ENTER!!!</title>
+
+<style>
+
+body{
+background-color: black;
+}
+
+</style>
+</head>
+
+<body>
+<img src="spooky.jpeg">
+<audio controls autoplay loop src="womanscream.mp3">
+</body>
+
+</html>
