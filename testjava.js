@@ -6,7 +6,6 @@ let question = window.prompt("Is this real?");
 console.log(question);
 document.getElementById("var2test").innerHTML = question;
 
-document.getElementById("buttontest").innerHTML = button(){
-
+function buttontest(){
   document.getElementById("inputtest").innerHTML = headertest;
 }
